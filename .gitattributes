@@ -1,0 +1,13 @@
+# Tum metin dosyalarini repoda LF satir sonu
+* text=auto eol=lf
+
+# Windows'a ozel script'ler CRLF kalmali
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Ikili (binary) dosyalar
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.onnx binary
+*.pt binary
