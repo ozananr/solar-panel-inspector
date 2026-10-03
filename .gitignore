@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Visual environment
+.venv/
+
+# Ortam degiskenleri (secret informations)
+.env
+.env.*
+!.env.example
+
+# Caches
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Veri seti ve model dosyalari (large files)
+data/
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
