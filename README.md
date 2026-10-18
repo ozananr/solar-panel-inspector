@@ -2,6 +2,8 @@
 
 End-to-end computer vision system for detecting defective solar cells in electroluminescence (EL) images of photovoltaic modules.
 
+[![CI](https://github.com/ozananr/solar-panel-inspector/actions/workflows/ci.yml/badge.svg)](https://github.com/ozananr/solar-panel-inspector/actions/workflows/ci.yml)
+
 > **Status:** Work in progress
 
 ## Overview
